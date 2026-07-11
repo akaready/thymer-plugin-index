@@ -21,7 +21,6 @@ https://raw.githubusercontent.com/akaready/thymer-plugin-index/main/README.md
 - [Collection Colors](https://github.com/akaready/thymer-collection-colors) - Color collection icons and labels in the sidebar. One install, applies to every collection.
 - [Collection Icons](https://github.com/akaready/thymer-collection-icons) - Replace Thymer's inline-link arrow with each collection's or page's icon.
 - [Editor Tweaks](https://github.com/akaready/thymer-editor-tweaks) - Uniform editor line geometry (indent mode, aligned indent guides) plus Thymer's native hover controls tuned: click-to-zoom, custom cursors, and collapsed-line cleanups.
-- [Hover Controls](https://github.com/akaready/thymer-hover-controls) - Custom Workflowy-style hover popup for editor nodes: options, collapse or expand, and zoom.
 - [Journal Day Shortcuts](https://github.com/akaready/thymer-journal-day-shortcuts) - Keyboard shortcuts for previous/next day in the journal.
 - [Jump Move Send](https://github.com/akaready/thymer-jump-move-send) - Jump to, move to, or send to any journal day.
 - [Mac Traffic Lights](https://github.com/akaready/thymer-mac-traffic-lights) - Toggle macOS window traffic-light buttons (red/yellow/green) on or off, with the choice persisted across restarts.
