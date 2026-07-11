@@ -25,6 +25,6 @@ https://raw.githubusercontent.com/akaready/thymer-plugin-index/main/README.md
 - [Jump Move Send](https://github.com/akaready/thymer-jump-move-send) - Jump to, move to, or send to any journal day.
 - [Mac Traffic Lights](https://github.com/akaready/thymer-mac-traffic-lights) - Toggle macOS window traffic-light buttons (red/yellow/green) on or off, with the choice persisted across restarts.
 - [Recall.ai Meetings](https://github.com/akaready/thymer-recall-ai) - Send Recall.ai bots to meeting URLs and stream transcripts and summaries into Thymer.
-- [Sidebar Seperators](https://github.com/akaready/thymer-sidebar-seperators) - Adds movable theme-colored separators to Thymer's collections list.
+- [Sidebar Separators](https://github.com/akaready/thymer-sidebar-separators) - Adds movable theme-colored separators to Thymer's collections list.
 - [Sidebar Tweaks](https://github.com/akaready/thymer-sidebar-tweaks) - Sidebar visibility, behavior, and layout options for Thymer's collections sidebar.
 - [Status Bar Manager](https://github.com/akaready/thymer-status-bar-manager) - Show or hide individual elements of Thymer's bottom status bar — the bar itself, keyboard shortcuts, plugin icons, the user avatar, the Thymer logo, and the sync indicator.
