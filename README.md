@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/akaready/thymer-plugin-index/main/README.md
 - [Editor Tweaks](https://github.com/akaready/thymer-editor-tweaks) - Uniform editor line geometry (indent mode, aligned indent guides), Thymer's native hover controls tuned (click-to-zoom, custom cursors, collapsed-line cleanups), plus window-chrome toggles (hide macOS traffic lights, hide Thymer's titlebar).
 - [Journal Day Shortcuts](https://github.com/akaready/thymer-journal-day-shortcuts) - Keyboard shortcuts for previous/next day in the journal.
 - [Jump Move Send](https://github.com/akaready/thymer-jump-move-send) - Jump to, move to, or send to any journal day.
-- [Recall.ai Meetings](https://github.com/akaready/thymer-recall-ai) - Send Recall.ai bots to meeting URLs and stream transcripts and summaries into Thymer.
+- [Meetings](https://github.com/akaready/thymer-recall-ai) - Send Recall.ai bots to meeting URLs and stream transcripts and summaries into Thymer.
 - [Sidebar Separators](https://github.com/akaready/thymer-sidebar-separators) - Adds movable theme-colored separators to Thymer's collections list.
 - [Sidebar Tweaks](https://github.com/akaready/thymer-sidebar-tweaks) - Sidebar visibility, behavior, and layout options for Thymer's collections sidebar.
 - [Status Bar Manager](https://github.com/akaready/thymer-status-bar-manager) - Show or hide individual elements of Thymer's bottom status bar — the bar itself, keyboard shortcuts, plugin icons, the user avatar, the Thymer logo, and the sync indicator.
