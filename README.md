@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/akaready/thymer-plugin-index/main/README.md
 - [Build Title from Properties](https://github.com/akaready/thymer-build-title-from-properties) - Build collection item display titles from selected property values.
 - [Collection Colors](https://github.com/akaready/thymer-collection-colors) - Color collection icons and labels in the sidebar. One install, applies to every collection.
 - [Collection Icons](https://github.com/akaready/thymer-collection-icons) - Replace Thymer's inline-link arrow with each collection's or page's icon.
+- [Cursor Smith](https://github.com/akaready/thymer-cursor-smith) - Forge your text cursor — styles, colors, smooth motion, blinking, particle effects, and a torch spotlight.
 - [Editor Tweaks](https://github.com/akaready/thymer-editor-tweaks) - Uniform editor line geometry (indent mode, aligned indent guides), Thymer's native hover controls tuned (click-to-zoom, custom cursors, collapsed-line cleanups), plus window-chrome toggles (hide macOS traffic lights, hide Thymer's titlebar).
 - [Journal Day Shortcuts](https://github.com/akaready/thymer-journal-day-shortcuts) - Keyboard shortcuts for previous/next day in the journal.
 - [Jump Move Send](https://github.com/akaready/thymer-jump-move-send) - Jump to, move to, or send to any journal day.
