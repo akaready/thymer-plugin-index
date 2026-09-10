@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/akaready/thymer-plugin-index/main/README.md
 - [Collection Icons](https://github.com/akaready/thymer-collection-icons) - Replace Thymer's inline-link arrow with each collection's or page's icon.
 - [Cursor Tweaks](https://github.com/akaready/thymer-cursor-tweaks) - Forge your text cursor — styles, colors, smooth motion, blinking, particle effects, and a torch spotlight.
 - [Editor Tweaks](https://github.com/akaready/thymer-editor-tweaks) - Uniform editor line geometry (indent mode, aligned indent guides), Thymer's native hover controls tuned (click-to-zoom, custom cursors, collapsed-line cleanups), plus window-chrome toggles (hide macOS traffic lights, hide Thymer's titlebar).
-- [Find-N-Replace](https://github.com/akaready/thymer-find-n-replace) - Find and replace across the page, with VS Code-style ⌘D occurrence selection — the find & replace Thymer doesn't have yet.
+- [Find and Replace](https://github.com/akaready/thymer-find-and-replace) - Find and replace across the page, with VS Code-style ⌘D occurrence selection — the find & replace Thymer doesn't have yet.
 - [Generate Banner](https://github.com/akaready/thymer-generate-banner) - Generate AI banners for any page or collection from OpenRouter image models.
 - [Journal Day Shortcuts](https://github.com/akaready/thymer-journal-day-shortcuts) - Keyboard shortcuts for previous/next day in the journal.
 - [Jump Move Send](https://github.com/akaready/thymer-jump-move-send) - Jump to, move to, or send to any journal day.
